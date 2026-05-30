@@ -140,15 +140,39 @@ If you use this repository, please cite the associated publication once availabl
 
 ---
 
-# Contact
-
-**Sumith Yesudasan**  
-Assistant Professor  
-Department of Mechanical and Industrial Engineering  
-University of New Haven  
-
----
-
 # License
 
 This repository is shared for academic and research use. For reuse, redistribution, or collaboration, please contact the author.
+
+# Disclaimer
+
+This repository is provided for academic, educational, and research purposes only.
+
+The simulation inputs, scripts, datasets, and analysis tools contained in this repository are distributed without any warranty, express or implied. While reasonable efforts were made to verify the correctness and reproducibility of the computational workflows and processed results, the authors make no guarantees regarding:
+
+- Completeness of the datasets
+- Accuracy of derived quantities
+- Suitability for specific applications
+- Compatibility across computing environments
+- Reproducibility on different hardware or software configurations
+
+Users are responsible for independently validating all simulations, scripts, parameters, and post-processing methods before using them in published research or production environments.
+
+Some large trajectory files and intermediate simulation outputs may be omitted because of repository size limitations. Therefore, certain analyses may require regeneration of data using the provided simulation inputs.
+
+The repository may contain:
+- Experimental workflows
+- Development-stage scripts
+- Archived datasets
+- Legacy input configurations
+
+These materials may not reflect the final versions used in associated publications.
+
+By using this repository, users acknowledge that:
+- Molecular dynamics simulations are sensitive to implementation details, force-field parameters, boundary conditions, and numerical settings.
+- Computational results may vary depending on software versions, compiler settings, hardware architecture, and parallelization methods.
+- Proper scientific judgment is required when interpreting or extending the provided results.
+
+The authors are not liable for any direct or indirect damages, data loss, computational expenses, or research outcomes resulting from the use of this repository.
+
+If you use this repository in academic work, please appropriately cite the associated publication(s) and acknowledge the original source.
